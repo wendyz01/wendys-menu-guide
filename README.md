@@ -28,3 +28,5 @@ Visit our complete guide here:
 - Wendy's Cobb Salad
 
 We regularly update this information as Wendy's introduces new menu items.
+
+Visit: https://thewendyzmenu.com/
